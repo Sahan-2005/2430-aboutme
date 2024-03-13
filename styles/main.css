@@ -30,18 +30,21 @@ h3 {
 h1 {
   font-size: 4em;
   font-weight: 900;
-  text-shadow: 0.02em 0.04em #403d58;
-  color: deeppink;
+  text-shadow: 0.02em 0.04em #25223b;
+  color: #c24f2f;
 }
 
 h2 {
   border-bottom: 0.1em solid #66d7d1;
   padding: 0.25em;
   margin: 1.6em 0;
+  text-shadow: 0.02em 0.04em rgb(214, 38, 97);
 }
 
 section p {
   text-indent: 2.8em;
+  line-height: 1.6em;
+  margin-bottom: 2em;
 }
 
 .project {
